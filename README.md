@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# memo
+
+[手を動かして0から理解するAmplify Gen2](https://qiita.com/moritalous/items/76a05676a564960ac974)
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
